@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <title>Dhimni Salma | Portfolio Data Science</title>
+</head>
+<body>
+    <h1>Dhimni Salma</h1>
+    <p>Étudiante en Marketing Digital & Data Analysis</p>
+
+    <h2>À propos de moi</h2>
+    <p>Étudiante passionnée par l'analyse de données et le marketing digital.  
+    Actuellement en formation à l'EST Salé et en pleine construction de mon portfolio professionnel.</p>
+
+    <h2>Liens</h2>
+    <ul>
+        <li><a href="CV_Dhimni_Salma.pdf" target="_blank">Mon CV (PDF)</a></li>
+        <li><a href="https://www.kaggle.com/code/dhimnisalma/first-data-analysis-exploratory-analysis" target="_blank">Mon profil Kaggle</a></li>
+        <li><a href="https://github.com/dhimnisalma539" target="_blank">Mon GitHub</a></li>
+        <li><a href="https://dhimnisalma539-ux.github.io/cv-portfolio/" target="_blank">Mon Portfolio</a></li>
+    </ul>
+</body>
+</html>
